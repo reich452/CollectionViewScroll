@@ -12,17 +12,6 @@
 		01BDB0AE1E84284B00446DB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0AD1E84284B00446DB5 /* Assets.xcassets */; };
 		01BDB0B11E84284B00446DB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0AF1E84284B00446DB5 /* LaunchScreen.storyboard */; };
 		01BDB0B91E842DEC00446DB5 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BDB0B81E842DEC00446DB5 /* HomeViewController.swift */; };
-		01BDB0D51E84346A00446DB5 /* nz1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0CA1E84346A00446DB5 /* nz1.JPG */; };
-		01BDB0D61E84346A00446DB5 /* nz2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0CB1E84346A00446DB5 /* nz2.JPG */; };
-		01BDB0D71E84346A00446DB5 /* nz3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0CC1E84346A00446DB5 /* nz3.JPG */; };
-		01BDB0D81E84346A00446DB5 /* nz4.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0CD1E84346A00446DB5 /* nz4.JPG */; };
-		01BDB0D91E84346A00446DB5 /* nz5.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0CE1E84346A00446DB5 /* nz5.JPG */; };
-		01BDB0DA1E84346A00446DB5 /* nz6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0CF1E84346A00446DB5 /* nz6.JPG */; };
-		01BDB0DB1E84346A00446DB5 /* nz7.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0D01E84346A00446DB5 /* nz7.JPG */; };
-		01BDB0DC1E84346A00446DB5 /* nz8.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0D11E84346A00446DB5 /* nz8.JPG */; };
-		01BDB0DD1E84346A00446DB5 /* nz9.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0D21E84346A00446DB5 /* nz9.JPG */; };
-		01BDB0DE1E84346A00446DB5 /* nz10.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0D31E84346A00446DB5 /* nz10.JPG */; };
-		01BDB0DF1E84346A00446DB5 /* nz11.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 01BDB0D41E84346A00446DB5 /* nz11.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,17 +22,6 @@
 		01BDB0B01E84284B00446DB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01BDB0B21E84284B00446DB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01BDB0B81E842DEC00446DB5 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
-		01BDB0CA1E84346A00446DB5 /* nz1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz1.JPG; sourceTree = "<group>"; };
-		01BDB0CB1E84346A00446DB5 /* nz2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz2.JPG; sourceTree = "<group>"; };
-		01BDB0CC1E84346A00446DB5 /* nz3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz3.JPG; sourceTree = "<group>"; };
-		01BDB0CD1E84346A00446DB5 /* nz4.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz4.JPG; sourceTree = "<group>"; };
-		01BDB0CE1E84346A00446DB5 /* nz5.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz5.JPG; sourceTree = "<group>"; };
-		01BDB0CF1E84346A00446DB5 /* nz6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz6.JPG; sourceTree = "<group>"; };
-		01BDB0D01E84346A00446DB5 /* nz7.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz7.JPG; sourceTree = "<group>"; };
-		01BDB0D11E84346A00446DB5 /* nz8.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz8.JPG; sourceTree = "<group>"; };
-		01BDB0D21E84346A00446DB5 /* nz9.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz9.JPG; sourceTree = "<group>"; };
-		01BDB0D31E84346A00446DB5 /* nz10.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz10.JPG; sourceTree = "<group>"; };
-		01BDB0D41E84346A00446DB5 /* nz11.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz11.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,17 +40,6 @@
 			children = (
 				01BDB0A51E84284B00446DB5 /* CollectionScrolling */,
 				01BDB0A41E84284B00446DB5 /* Products */,
-				01BDB0CA1E84346A00446DB5 /* nz1.JPG */,
-				01BDB0CB1E84346A00446DB5 /* nz2.JPG */,
-				01BDB0CC1E84346A00446DB5 /* nz3.JPG */,
-				01BDB0CD1E84346A00446DB5 /* nz4.JPG */,
-				01BDB0CE1E84346A00446DB5 /* nz5.JPG */,
-				01BDB0CF1E84346A00446DB5 /* nz6.JPG */,
-				01BDB0D01E84346A00446DB5 /* nz7.JPG */,
-				01BDB0D11E84346A00446DB5 /* nz8.JPG */,
-				01BDB0D21E84346A00446DB5 /* nz9.JPG */,
-				01BDB0D31E84346A00446DB5 /* nz10.JPG */,
-				01BDB0D41E84346A00446DB5 /* nz11.JPG */,
 			);
 			sourceTree = "<group>";
 		};
@@ -158,19 +125,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				01BDB0B11E84284B00446DB5 /* LaunchScreen.storyboard in Resources */,
-				01BDB0D91E84346A00446DB5 /* nz5.JPG in Resources */,
-				01BDB0DB1E84346A00446DB5 /* nz7.JPG in Resources */,
-				01BDB0D51E84346A00446DB5 /* nz1.JPG in Resources */,
-				01BDB0DE1E84346A00446DB5 /* nz10.JPG in Resources */,
 				01BDB0AE1E84284B00446DB5 /* Assets.xcassets in Resources */,
-				01BDB0DD1E84346A00446DB5 /* nz9.JPG in Resources */,
-				01BDB0DC1E84346A00446DB5 /* nz8.JPG in Resources */,
 				01BDB0AC1E84284B00446DB5 /* Main.storyboard in Resources */,
-				01BDB0DA1E84346A00446DB5 /* nz6.JPG in Resources */,
-				01BDB0D71E84346A00446DB5 /* nz3.JPG in Resources */,
-				01BDB0D81E84346A00446DB5 /* nz4.JPG in Resources */,
-				01BDB0DF1E84346A00446DB5 /* nz11.JPG in Resources */,
-				01BDB0D61E84346A00446DB5 /* nz2.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
